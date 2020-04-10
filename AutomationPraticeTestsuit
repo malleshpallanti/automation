@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="AutomationPractice Suite">
+  <test name="Order Booking">
+    <classes>
+      <class name="com.automationframework.Practicetest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
